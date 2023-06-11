@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> ماشین حساب کودکانه</string>
+    <string name="hello_world">Hello world!</string>
+ <string name="darbareh"> ماشین حساب کودکانه \n نسخه:1.1 \n برنامه نویس: \n  شهرویی</string>
+ 
+  <string name="exit">خروج از برنامه</string>
+    <string name="mayel">آیا مایل به خروج از برنامه هستید؟</string>
+    <string name="yes">بلی</string>
+    <string name="no2">خیر</string>
+ 
+</resources>
+
